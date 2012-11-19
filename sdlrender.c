@@ -212,8 +212,7 @@ void sdlrender(request_t req)
 				{
 					zoom(-0.1, &req);
 					mandelbrot_fract_algorithm(req); 
-				}
-				
+				}				
 			}   
 			
 			// Mouse mosso
